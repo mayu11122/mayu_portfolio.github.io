@@ -112,6 +112,9 @@ li {
   align-items: center;
   justify-content: center;
   height: 86vh;
+  background-image: url("../img/about/homephoto1.jpeg");
+  background-position: center center;
+  background-size: cover;
 }
 
 .logo {
